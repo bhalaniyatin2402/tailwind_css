@@ -1,4 +1,4 @@
-import TeamVideoBg from "../assets/team video BG.png";
+import TeamVideoBg from "../assets/team_video_BG.png";
 import Play from "../assets/Play.png";
 
 function Video() {

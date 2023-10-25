@@ -1,6 +1,6 @@
-import Illust1 from "../assets/illust1.png";
-import Illust2 from "../assets/illust2.png";
-import Illust3 from "../assets/illust3.png";
+import IllustOne from "../assets/illust_one.png";
+import IllustTwo from "../assets/illust_two.png";
+import IllustThree from "../assets/illust_three.png";
 
 function Features() {
   return (
@@ -19,7 +19,7 @@ function Features() {
       </div>
       <div className="md:flex justify-center md:gap-4 lg:gap-6">
         <div className="m-2 p-4 md:w-56 md:mt-8 lg:mt-0 bg-[#F3F4F6] rounded-xl">
-          <img className="w-16" src={Illust1} alt="" />
+          <img className="w-16" src={IllustOne} alt="" />
           <h3 className="text-xl mt-4 font-semibold">Happy Customers</h3>
           <p className="mt-4">
             Productive agents are happy agents. Give them all the support tools
@@ -27,7 +27,7 @@ function Features() {
           </p>
         </div>
         <div className="m-2 mt-8 lg:mt-0 p-4 md:w-56 bg-[#F3F4F6] rounded-xl">
-          <img className="w-16" src={Illust2} alt="" />
+          <img className="w-16" src={IllustTwo} alt="" />
           <h3 className="text-xl mt-4 font-semibold">Best Integrations</h3>
           <p className="mt-4">
             Productive agents are happy agents. Give them all the support tools
@@ -35,7 +35,7 @@ function Features() {
           </p>
         </div>
         <div className="m-2 mt-8 lg:mt-0 p-4 md:w-56 bg-[#F3F4F6] rounded-xl">
-          <img className="w-16" src={Illust1} alt="" />
+          <img className="w-16" src={IllustThree} alt="" />
           <h3 className="text-xl mt-4 font-semibold">Grow Without Problems</h3>
           <p className="mt-4">
             Productive agents are happy agents. Give them all the support tools
